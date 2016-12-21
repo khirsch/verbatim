@@ -6,6 +6,10 @@
 
 Verbatim is an online marketplace that provides users with a variety of books for purchase.
 
+## Prerequisites
+
+You will need the following things properly installed on your computer:
+
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) (with NPM)
 * [Bower](http://bower.io/)
